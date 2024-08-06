@@ -1,6 +1,6 @@
 # SiriusMindShare-email-summarization
 
-Authors: Fengjia (Wendy) Qiao & Zilu (Lukas) Ji
+Authors: Jiaqiao (Wendy) Feng & Zilu (Lukas) Ji
 
 ## Part 1 
 Marketing email Q & A
