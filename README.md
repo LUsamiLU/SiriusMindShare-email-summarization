@@ -10,7 +10,7 @@ This project is a collaboration between Google AI's Gemini Large Language Model 
 
 ## Sections
 Emails summarization Q&A from different industries:
-1. [Restaurant](https://github.com/LUsamiLU/SiriusMindShare-email-summarization/edit/main/README.md#restaurant-sample)
+1. [Restaurant](https://github.com/LUsamiLU/SiriusMindShare-email-summarization/tree/main?tab=readme-ov-file#restaurant-sample)
 2. [Retail]()
 3. [University]()
 4. [Tourism]()
