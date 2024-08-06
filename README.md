@@ -8,6 +8,13 @@ Zilu (Lukas) Ji
 
 This project is a collaboration between Google AI's Gemini Large Language Model (LLM) and SiriusMindShare, a provider of AI tools for email services. The project aims to leverage Gemini's capabilities to enhance SiriusMindShare's current AI tools for email and content marketing offered to small and medium-sized businesses (SMBs).
 
+## Sections
+Emails summarization Q&A from different industries:
+1. [Restaurant](https://github.com/LUsamiLU/SiriusMindShare-email-summarization/edit/main/README.md#restaurant-sample)
+2. [Retail]()
+3. [University]()
+4. [Tourism]()
+
 ## Setup
 
 In order to communicate with Gemini, the necessary packages and the key are required.
@@ -64,7 +71,16 @@ with open(output_file_path, 'w', encoding='utf-8') as file:
     file.write(cleaned_restaurant_prompt)
 ```
 
+## Samples
+There are 10 questions for each industry, here are only a few samples, details present in the file [SiriusMindshare.ipynb](https://github.com/LUsamiLU/SiriusMindShare-email-summarization/blob/main/SiriusMindshare.ipynb)
 
+### Restaurant sample
+
+### Retail sample
+
+### University sample
+
+### Tourism sample
 
 
 
